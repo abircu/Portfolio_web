@@ -1,0 +1,27 @@
+.b{
+    border: 5px solid red;
+    border-radius: 40px;
+    margin: 10px;
+    text-align: center;
+    text-align: justify;
+    width: 45%;
+    float: left;
+}
+p{
+    font-size: larger;
+}
+#head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 20px solid darkblue;
+    border-radius: 30px;
+}
+#head{
+    text-align: center;
+}
+.c{
+    border: 5px solid green;
+    border-radius:  50px;
+    margin: 10px;
+    text-align: center;
+    float: left;
+}
